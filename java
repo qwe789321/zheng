@@ -5,3 +5,4 @@ Here I share my experiences and notes when learning java,which is convenient for
 2、Core class libray:aprogram written by java itself,which can be called by aprogram that runs by itself.
 3、JRE:(JVM,core class library)the running environment of java.
 4、Java development kit:JDK.
+5、The basic syntax of java is a bit like the c language.
